@@ -11,35 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Neuroscience, Indian Institute of Science, 2027 (expected)
+* M.Tech. in Digital Signal Processing, Indian Institute of Space Science and Technology, 2021
+* B.Engg. in Electronics and Communication Engineering, Chaitanya Bharati Institute of Technology, Osmania University, 2019
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Matlab, Python 
+* Experimental Methods
+  * Psychophysics (Psychtoolbox)
+  * Electroencephalography (Biosemi, OpenBCI)
+  * Eye Tracking (SMI & Eye Link)
+* Signal Processing
+* Machine Learning and Basics of Deep Learning
+* Hypothesis testing & Statistics
+* Scientific Communication
+* Basic Electronic Design
+* Misc.
+ * Git, Shell scripting, Adobe Illustrator, Latex.
 
 Publications
 ======
@@ -58,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
