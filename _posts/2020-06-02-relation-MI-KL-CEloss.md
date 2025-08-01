@@ -1,7 +1,7 @@
 ---
 title:  "Relations between Mutual information, Cross entropy, KL Divergence"
 date: 2020-06-02 10:00:00
-permalink: /posts/
+permalink: /posts/2020-06-02-relation-MI-KL-CEloss
 excerpt: "Quantizing the relations between two random variables and distributions"
 mathjax: true
 ---
