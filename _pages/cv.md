@@ -29,7 +29,7 @@ Skills
 * Scientific Communication
 * Basic Electronic Design
 * Misc.
- * Git, Shell scripting, Adobe Illustrator, Latex.
+  * Git, Shell scripting, Adobe Illustrator, Latex.
 
 Publications
 ======
