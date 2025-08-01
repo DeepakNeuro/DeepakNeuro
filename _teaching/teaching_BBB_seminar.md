@@ -3,7 +3,6 @@ title: "Brain, Behavior and Beyond"
 collection: teaching
 type: "Seminar"
 permalink: /teaching/teaching_BBB_seminar
-venue: "University 1, Department"
 date: 2023-04-01
 ---
 
