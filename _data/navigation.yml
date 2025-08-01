@@ -9,11 +9,8 @@
 
 main:
 
-  - title: "Research"
-    url: /Research/
-
   - title: "Projects"
-  - url: /Projects/
+    url: /Projects/
 
   - title: "Publications"
     url: /publications/
