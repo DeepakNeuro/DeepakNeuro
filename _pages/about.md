@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PMRF reserach scholar at Indian Institute of Science (IISc). Currently pursuing my doctoral studies at Center for Neuroscience, IISc. 
-
-Previoulsy, I completed my bachelor's in Electronics and Communication Engineering from CBIT, Hyderabad and Master's in signal processing from IIST, Trivandrum. 
+I am a PMRF reserach scholar at Indian Institute of Science (IISc). Currently pursuing my doctoral studies at Center for Neuroscience, IISc. Previoulsy, I completed my bachelor's in Electronics and Communication Engineering from CBIT, Hyderabad and Master's in signal processing from IIST, Trivandrum. 
 
 I've been astonished by the elegant transformation of mere electrochemical signals to complex behaviors and everyday experiences in the Brain and nervous system, which pulled me towards Neuroscience in
 my third year of bachelor's, since then I was interesed to learn and apply my skillsets to reverse engineer the Brain. In addition to inherent motivation to study the brain, the agglomerate inspiration drawn from works and communications of David Eagleman, Terrance Sejnowski, Rajesh P N Rao and Jeff Hawkins made me choose Neuroscience as my career path.
