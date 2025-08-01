@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Deepak Raya"
+title                    : "DeepakNeuro"
 title_separator          : "-"
 name                     : &name "Deepak Raya"
 description              : &description "Welcome to my web protfolio"
