@@ -7,10 +7,6 @@ date: 2023-02-04
 ---
 
 
-
-
-### Demystifying the Brain: (Feb - Mar 2023),NPTEL
-
 | File | Description   |
 |:-----------:|:-------------:|
 | [Session 1](https://drive.google.com/drive/folders/1G2cDhXtOW15RZaneeAi0k8kdmvEZCXIN?usp=share_link) | Introduction to Neuroscience and Neuroanatomy |
