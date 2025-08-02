@@ -233,10 +233,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -251,27 +251,27 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _projects
   - scope:
       path: ""
       type: projects
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true 
+      author_profile: false
+      share: false
+      comments: false
       
   # _talks
   #- scope:
