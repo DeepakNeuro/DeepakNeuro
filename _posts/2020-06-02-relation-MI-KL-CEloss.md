@@ -70,7 +70,7 @@ This is equivalent of maximizing mutual information between the signal/Data and 
 The Principle component analysis, used often in many signal processing and machine learning tasks, to select dimensions that capture maximum 
 variance in the data, in fact maximizes this mutual information.<br/>
 
-<br/> <img src="/images/linear_filtering.PNG" title="linearfiltering" width="90%"/> <figcaption> Src: Larry F Abbot, Theoretical Neuroscience </figcaption> <br/>
+<br/> <img src="/assests/linear_filtering.PNG" title="linearfiltering" width="90%"/> <figcaption> Src: Larry F Abbot, Theoretical Neuroscience </figcaption> <br/>
 
 >Mutual Information helps in selecting **maximally informative dimensions**
 <br/>
