@@ -72,7 +72,7 @@ variance in the data, in fact maximizes this mutual information.<br/>
 
 <br/> 
 
-<img src="/images/profile.jpg" title="linearfiltering" width="90%"/> 
+<img src="profile.jpg" title="linearfiltering" width="90%"/> 
 
 <br/> 
 <!-- <figcaption> Src: Larry F Abbot, Theoretical Neuroscience </figcaption> <br/> -->
