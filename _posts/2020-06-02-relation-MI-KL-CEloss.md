@@ -72,8 +72,8 @@ variance in the data, in fact maximizes this mutual information.<br/>
 
 <br/> 
 
-<img src="images/profile.jpg" alt = "Alt text" width="600"/> 
-
+![Linear Filtering](/images/profile.jpg)
+<!-- <img src="images/profile.jpg" alt = "Linear Filtering" width="600"/>  -->
 <br/> 
 <!-- <figcaption> Src: Larry F Abbot, Theoretical Neuroscience </figcaption> <br/> -->
 <!-- <img src="/assets/images/example.jpg" alt="Alt text" width="600" /> -->
